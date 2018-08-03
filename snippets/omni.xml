@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Omni Recovery-->
+  <project path="bootable/recovery" name="omnirom/android_bootable_recovery" remote="github" revision="android-8.1" groups="pdk-cw-fs"/>
+  <!-- Omni Vendor-->
+  <project path="vendor/omni" name="omnirom/android_vendor_omni" remote="omnirom" revision="android-8.1" />
+</manifest>
